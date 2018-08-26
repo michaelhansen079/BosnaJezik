@@ -1,0 +1,32 @@
+@inject SignInManager<ApplicationUser> SignInManager
+
+@if(SignInManager.IsSignedIn(User))
+{
+    <nav class="navbar navbar-inverted">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="btn btn-link navbar-link" asp-action="Index" asp-controller="Home">
+                    <span class="glyphicon glyphicon-home"></span>
+                </a>
+            </div>
+            <div class="collapse navbar-collapse">                        
+                <form asp-controller="Account" asp-action="Logout" asp-controller="Account" class="navbar-right" method="POST">
+                    <ul class="nav navbar-nav navbar-right">                       
+                        <li>
+                            <button type="submit" class="btn btn-link navbar-link">Log out</button>
+                        </li>
+                    </ul>
+                </form>
+                <form asp-controller="Account" asp-action="UserInfo" asp-controller="Account" class="navbar-right" method="GET">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <button class="btn btn-link navbar-link">
+                                <span class="glyphicon glyphicon-user"></span>
+                            </button>
+                        </li>
+                    </ul>
+                </form>                
+            </div>
+        </div>
+    </nav>
+}

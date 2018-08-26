@@ -1,0 +1,7 @@
+{
+    "css": {
+        "style": [
+            "lib/bootstrap/dist/bootstrap.css"
+        ]
+    }
+}

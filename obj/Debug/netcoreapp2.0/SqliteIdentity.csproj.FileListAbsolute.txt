@@ -1,0 +1,11 @@
+/Users/admin/Code/dotnetcore/BosnaJezik/bin/Debug/netcoreapp2.0/SqliteIdentity.deps.json
+/Users/admin/Code/dotnetcore/BosnaJezik/bin/Debug/netcoreapp2.0/SqliteIdentity.runtimeconfig.json
+/Users/admin/Code/dotnetcore/BosnaJezik/bin/Debug/netcoreapp2.0/SqliteIdentity.runtimeconfig.dev.json
+/Users/admin/Code/dotnetcore/BosnaJezik/bin/Debug/netcoreapp2.0/SqliteIdentity.dll
+/Users/admin/Code/dotnetcore/BosnaJezik/bin/Debug/netcoreapp2.0/SqliteIdentity.pdb
+/Users/admin/Code/dotnetcore/BosnaJezik/obj/Debug/netcoreapp2.0/SqliteIdentity.csprojAssemblyReference.cache
+/Users/admin/Code/dotnetcore/BosnaJezik/obj/Debug/netcoreapp2.0/SqliteIdentity.csproj.CoreCompileInputs.cache
+/Users/admin/Code/dotnetcore/BosnaJezik/obj/Debug/netcoreapp2.0/SqliteIdentity.AssemblyInfoInputs.cache
+/Users/admin/Code/dotnetcore/BosnaJezik/obj/Debug/netcoreapp2.0/SqliteIdentity.AssemblyInfo.cs
+/Users/admin/Code/dotnetcore/BosnaJezik/obj/Debug/netcoreapp2.0/SqliteIdentity.dll
+/Users/admin/Code/dotnetcore/BosnaJezik/obj/Debug/netcoreapp2.0/SqliteIdentity.pdb
